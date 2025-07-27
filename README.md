@@ -17,3 +17,6 @@
 ### 📬 Let’s Connect  
 [![Email](https://img.shields.io/badge/Email-davidng5679@gmail.com-red)](mailto:davidng5679@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Ng_DAO-blue)](https://www.linkedin.com/in/davidng-dao)
+### 🛠️ Web3 Adaptations  
+- **Dell-to-DAO Rewards**: Tiered incentives for LPs  
+- **OCBC → DeFi Security**: Fraud detection models  
