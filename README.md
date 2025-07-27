@@ -16,3 +16,11 @@
 
 www.linkedin.com/in/davidng-dao
 Davidng5679@gmail.com
+### 🏆 New Section: Awards & Milestones
+- **Dell Altitude Award (Top 10% APAC)**  
+- **Blockchain Council Certified**  
+- **OCBC Fraud Detection Models** → Adapted for CoW DAO  
+
+### 🔗 Live Projects
+[![Dell-to-Web3 Playbook](https://img.shields.io/badge/Playbook-View_Here-blue)](your-link)  
+[![Loom Demo](https://img.shields.io/badge/Video-Walkthrough-red)](your-loom-link)  
