@@ -19,4 +19,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Ng_DAO-blue)](https://www.linkedin.com/in/davidng-dao)
 ### 🛠️ Web3 Adaptations  
 - **Dell-to-DAO Rewards**: Tiered incentives for LPs  
-- **OCBC → DeFi Security**: Fraud detection models  
+- **OCBC → DeFi Security**: Fraud detection models
+- ### 📜 Certifications  
+[![Blockchain Council](https://img.shields.io/badge/Blockchain_Council-DAO_&_Metaverse_Expert-green)](https://certificates.blockchain-council.org/6beea982-57e5-447b-b047-01f76ab45bae)  
+*Verified credential ID: 6beea982-57e5-447b-b047-01f76ab45bae*  
+**Skills Validated**:  
+- DAO governance frameworks  
+- Metaverse economics  
+- Web3 business models
+- ![Blockchain Council Certificate](/blockchain-cert.png)
