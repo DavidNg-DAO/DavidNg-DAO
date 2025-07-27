@@ -26,4 +26,5 @@
 **Bridging TradFi & Web3**  
 - Ex-Dell ($20M Partner Growth)  
 - OCBC Risk → DeFi Security  
-- Blockchain Council Certified  
+- Blockchain Council Certified
+- [![GitHub](https://img.shields.io/badge/GitHub-DavidNg--DAO-black)](https://github.com/DavidNg-DAO)
