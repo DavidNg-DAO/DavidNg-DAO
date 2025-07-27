@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm David Ng  
+**Web3 Business Development | Ex-Dell ($20M Partner Growth) | OCBC Fraud Specialist**
 
-<!--
-**DavidNg-DAO/DavidNg-DAO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 My Superpowers  
+- **Institutional Onboarding**: Scaled Dell partners to $20M → Now adapting for DAOs  
+- **Risk Management**: Ported OCBC fraud models to detect DeFi wash trading  
+- **Certifications**: Blockchain Council (DAO/Metaverse), Gitcoin Passport  
 
-Here are some ideas to get you started:
+### 📂 Portfolio Projects  
+| Project | Description |  
+|---------|-------------|  
+| [Dell-to-DAO Rewards](link) | Tiered incentives for LPs/validators |  
+| [OCBC → DeFi Security](link) | Anti-sybil checklists for DAOs |  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect  
+
+www.linkedin.com/in/davidng-dao
+Davidng5679@gmail.com
