@@ -1,28 +1,19 @@
-markdown
-# 👋 David Ng | Web3 Bridge Builder
-**Ex-Dell ($20M Partner Growth) → DAO Strategist | OCBC Risk → DeFi Security**
+# 👋 David Ng | Web3 Business Development  
+**Ex-Dell ($20M Partner Growth) → DAO Strategist | OCBC Risk → DeFi Security**  
 
-### 🏆 Core Expertise
-- **Institutional Onboarding**: Scaled 50+ Dell partners → Adapting for Lido/Seedify  
-- **Fraud Prevention**: OCBC models → DAO treasury protection  
-- **Certified**: Blockchain Council (DAO/Metaverse) | Gitcoin Passport  
+### 🎖️ Dell Leadership Recognition  
+![Peter Marrs' Compliment](/dell-praise.png)  
+*"Top performer... contributed to our success in APJ"*  
+**- Peter Marrs**, Senior Leader at Dell  
 
-### 🛠️ Live Projects
-[![Dell-to-DAO Playbook](https://img.shields.io/badge/Playbook-View_Here-blue)](your-link)  
-[![OCBC Anti-Sybil](https://img.shields.io/badge/Risk_Framework-PDF-red)](your-link)  
+### 🏆 Key Achievements  
+- Scaled APAC partnerships to **$20M revenue**  
+- Won **7 performance awards** (Including Gold Tier)  
+- Blockchain Council Certified (DAO/Metaverse)  
+
+![Dell Expert](https://img.shields.io/badge/Dell-$20M_Partner_Growth-blue)  
+![Web3 Builder](https://img.shields.io/badge/Web3-Business_Dev-purple)  
 
 ### 📬 Let’s Connect  
-www.linkedin.com/in/davidng-dao  
-davidng5679@gmail.com
-### 🎖️ Dell Leadership Recognition  
-> *"Congratulations on an outstanding H2'24! You are a top performer... Your commitment & passion for the business have contributed to our success in APJ!"*  
-> **- Peter Marrs**, Senior Leader at Dell Technologies  
-
-🔗 *Associated with 40% APAC partner growth and $20M revenue*  
-![Dell Top Performer](https://img.shields.io/badge/Dell-Top_Performer_2024-red)
-![Web3 BizDev](https://img.shields.io/badge/Web3-Business_Developer-purple)
-![Dell Veteran](https://img.shields.io/badge/Dell-13_Years-blue)
-
-### 🏆 Top Results  
-- Scaled APAC partnerships to **$20M revenue**  
-- Won **7 performance awards** (including Gold Tier)  
+[![Email](https://img.shields.io/badge/Email-davidng5679@gmail.com-red)](mailto:davidng5679@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Ng_DAO-blue)](https://www.linkedin.com/in/davidng-dao)
