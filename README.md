@@ -22,3 +22,8 @@
 ### 📬 Let’s Connect  
 [![Email](https://img.shields.io/badge/Email-davidng5679@gmail.com-red)](mailto:davidng5679@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Ng_DAO-blue)](https://www.linkedin.com/in/davidng-dao)  
+### Hi, I'm David Ng  
+**Bridging TradFi & Web3**  
+- Ex-Dell ($20M Partner Growth)  
+- OCBC Risk → DeFi Security  
+- Blockchain Council Certified  
