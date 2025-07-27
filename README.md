@@ -20,3 +20,9 @@ davidng5679@gmail.com
 
 🔗 *Associated with 40% APAC partner growth and $20M revenue*  
 ![Dell Top Performer](https://img.shields.io/badge/Dell-Top_Performer_2024-red)
+![Web3 BizDev](https://img.shields.io/badge/Web3-Business_Developer-purple)
+![Dell Veteran](https://img.shields.io/badge/Dell-13_Years-blue)
+
+### 🏆 Top Results  
+- Scaled APAC partnerships to **$20M revenue**  
+- Won **7 performance awards** (including Gold Tier)  
